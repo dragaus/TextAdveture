@@ -30,6 +30,10 @@ Los objetivos de este juego se enumeran a continuacion y se muestra su progreso.
 - [x] Publicar el juego
 - [x] Compartir juego
 
+## Autores
+
+* Francisco Castañeda - Programador :computer: - [@dragaus](https://github.com/dragaus)
+
 ## Motivación
 
 Enseñar las bases de TextMeshPro a estudiantes de Unity
